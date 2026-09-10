@@ -258,7 +258,7 @@ Pastikan sudah tersedia:
 - NPM
 - Laravel
 
-### Clone Repository
+### Clone Repositor
 
 bash
 git clone https://github.com/RyanAdiputra05/webgis-pickup-k06.git
