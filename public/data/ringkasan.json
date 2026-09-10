@@ -1,0 +1,19 @@
+{
+  "kode_kendaraan": "K-06",
+  "kendaraan": "Pickup boks",
+  "trayek": "Serang – Cilegon",
+  "jenis_bbm": "Biosolar",
+  "harga_per_liter": 6800,
+  "efisiensi_acuan": 9.0,
+  "jumlah_hari": 1,
+  "jumlah_trip": 3,
+  "total_km": 85.6,
+  "total_liter": 10.3,
+  "total_biaya": 69923,
+  "liter_idle": 0.0,
+  "liter_boros": 0.8,
+  "biaya_boros": 5234,
+  "catatan": "Data simulasi, bukan rekaman kendaraan sungguhan.",
+  "siang_trip": 3,
+  "siang_km_per_liter": 8.32
+}
